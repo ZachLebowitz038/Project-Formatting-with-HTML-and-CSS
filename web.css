@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  margin: 0;
+}
+
+header {
+  background-color: ghostwhite;
+  color: black;
+  padding: 16pt;
+}
+
+main {
+  background-color: aliceblue;
+  color: black;
+  padding: 0.5em;
+}
+
+footer {
+  background-color: mistyrose;
+  color: black;
+  padding: 0.5em;
+}
+
+code {
+  background-color: cornsilk;
+}
