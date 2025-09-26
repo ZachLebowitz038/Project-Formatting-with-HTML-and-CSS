@@ -11,7 +11,8 @@ header {
 }
 
 figure {
-  border: 1px LightGrey;
+  background-color: black;
+  border: 1px LightGray;
   padding: 1em;
   margin: 2em;
 }
