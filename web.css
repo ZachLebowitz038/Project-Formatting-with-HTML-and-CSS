@@ -10,8 +10,7 @@ header {
 
 figure {
   background-color: black;
-  border: 100px; 
-  border-color: lightgray;
+  border: 1px red;
   padding: 1em;
   margin: 2em;
 }
